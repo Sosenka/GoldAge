@@ -1,0 +1,40 @@
+/* YOUR CUSTOM STYLES */
+body{
+  overflow-x: hidden;
+  background-color: #f6ecec;
+}
+.dropdown-item:hover{
+  color: black;
+}
+#carousel-example-2{
+  margin-top: 55px;
+  width: 100vw;
+}
+#pa-logo{
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 40%;
+}
+.palogowanie{
+  width: 400px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.serwery{
+  width: 100vw;
+  height: auto;
+  background-color: #E5D1B5;
+}
+#wlaczony{
+  background-color: green;
+  border-radius: 10px;
+  color: white;
+  padding: 4px 4px 4px 4px;
+}
